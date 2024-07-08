@@ -9,7 +9,7 @@ function App() {
           <h1 className="text-4xl font-bold mb-2">Danny Gonzalez</h1>
           <h2 className="text-xl text-gray-600 mb-4">Front-End Developer</h2>
           <p className="text-gray-600">Email: dannygz0710@gmail.com</p>
-          <p className="text-gray-600">Phone: (615) 047-0623</p>
+          <p className="text-gray-600">Phone: (615) 947-0623</p>
           <div>
           <Link
             to="https://github.com/dannygz0710"
@@ -34,7 +34,7 @@ function App() {
            
           </p>
           <p className="text-gray-700 mt-2">
-          I enjoy creating solutions that can help people in the future,and it motivates me to learn new things every day.
+          I enjoy creating solutions that can help people in the future,and it motivates me to learn new technologies every day.
           </p>
         </div>
         {/* <!-- Skills Section --> */}
